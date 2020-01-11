@@ -148,7 +148,11 @@ Setting default value
 Failed to read: session.screen0.titlebar.right
 Setting default value
 XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+<<<<<<< HEAD
       after 8430 requests (8430 known processed) with 0 events remaining.
+=======
+      after 8434 requests (8434 known processed) with 0 events remaining.
+>>>>>>> origin/master
 Failed to read: session.styleOverlay
 Setting default value
 Failed to read: session.slitlistFile
@@ -503,10 +507,13 @@ BScreen::BScreen: an error occured while querying the X server.
 	another window manager already running on display:0
 Error: Couldn't find screens to manage.
 Make sure you don't have another window manager running.
+<<<<<<< HEAD
 Failed to read: session.screen0.titlebar.left
 Setting default value
 Failed to read: session.screen0.titlebar.right
 Setting default value
+=======
+>>>>>>> origin/master
 Failed to read: session.styleOverlay
 Setting default value
 Failed to read: session.slitlistFile
@@ -569,7 +576,10 @@ BScreen::BScreen: an error occured while querying the X server.
 	another window manager already running on display:0
 Error: Couldn't find screens to manage.
 Make sure you don't have another window manager running.
+<<<<<<< HEAD
 PORT=5900
+=======
+>>>>>>> origin/master
 Failed to read: session.styleOverlay
 Setting default value
 Failed to read: session.slitlistFile
@@ -628,6 +638,19 @@ Failed to read: session.screen0.colPlacementDirection
 Setting default value
 Failed to read: session.screen0.windowPlacement
 Setting default value
+<<<<<<< HEAD
+=======
+BScreen::BScreen: an error occured while querying the X server.
+	another window manager already running on display:0
+Error: Couldn't find screens to manage.
+Make sure you don't have another window manager running.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+>>>>>>> origin/master
 Failed to read: session.styleOverlay
 Setting default value
 Failed to read: session.slitlistFile
@@ -680,6 +703,7 @@ Failed to read: session.screen0.colPlacementDirection
 Setting default value
 Failed to read: session.screen0.windowPlacement
 Setting default value
+<<<<<<< HEAD
 Failed to read: session.screen0.slit.acceptKdeDockapps
 Setting default value
 Failed to read: session.screen0.slit.autoHide
@@ -714,6 +738,12 @@ Failed to read: session.screen0.iconbar.iconTextPadding
 Setting default value
 Failed to read: session.screen0.iconbar.usePixmap
 Setting default value
+=======
+BScreen::BScreen: an error occured while querying the X server.
+	another window manager already running on display:0
+Error: Couldn't find screens to manage.
+Make sure you don't have another window manager running.
+>>>>>>> origin/master
 Failed to read: session.screen0.titlebar.left
 Setting default value
 Failed to read: session.screen0.titlebar.right
